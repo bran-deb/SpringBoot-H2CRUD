@@ -1,1 +1,4 @@
-# SpringBoot-H2CRUD
+# 🍃 SpringBoot- CRUD
+
+* H2 DB
+* Lombok
